@@ -2,7 +2,9 @@
 
 ![Godot](https://img.shields.io/badge/Godot-4.4-blue?style=for-the-badge) ![Platformer](https://img.shields.io/badge/Genre-Platformer-green?style=for-the-badge)
 
-**KnightPlatformer** is a simple 2D platformer created with **Godot 4.4** to learn the basics of game development. This project is designed for beginner developers exploring **GDScript** and platformer mechanics.
+>**KnightPlatformer** is a simple 2D platformer created with **Godot 4.4** to learn the basics of game development. This project is designed for beginner developers exploring **GDScript** and platformer mechanics.
+
+## Demo Play: https://slayerarman.itch.io/king-platformer
 
 ## 🎮 Features
 ✅ Simple and clean **GDScript** code  
